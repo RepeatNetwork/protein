@@ -2,19 +2,21 @@
 
 ## Data processing
 
-转成.cite和.content的预处理脚本：
+* Step 1. transform into fea.tsv and adj.tsv: 
 
-.cite和.content数据转为gcn的输入数据格式：[cora](https://github.com/NIRVANALAN/gcn_analysis/tree/master/data/ori_cora_data/cora)
+* Step 2. transform into xx.cite and xx.content:
 
-脚本：https://github.com/NIRVANALAN/gcn_analysis/blob/master/notebook/Plantenoid%20Citation%20Data%20Format%20Transformation.ipynb "transformation"
+* Step 3. transform into ind.xx.x(/tx/y/ty/test.index/graph):
+
+[reference website](https://github.com/NIRVANALAN/gcn_analysis/blob/master/notebook/Plantenoid%20Citation%20Data%20Format%20Transformation.ipynb)
 
 
 ## Model
-GCN模型:https://github.com/tkipf/gcn
+GCN模型: [GCN model](https://github.com/tkipf/gcn)
 
 
 ## Paper
-##### overleaf link: https://www.overleaf.com/2396985619scdmrksxzjzy
+##### Editable overleaf link: [repeat_network](https://www.overleaf.com/2396985619scdmrksxzjzy)
 
 #### Biology：
 
