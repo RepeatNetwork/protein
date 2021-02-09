@@ -8,7 +8,7 @@
 
 * Step 3. transform into ind.xx.x(/tx/y/ty/test.index/graph):[Preprocessing-3](https://github.com/user8831222/protein_repeat_network/blob/main/script/to_plantoid_data.py)
 
-* [Reference website](https://github.com/NIRVANALAN/gcn_analysis/blob/master/notebook/Plantenoid%20Citation%20Data%20Format%20Transformation.ipynb)
+** [Reference website](https://github.com/NIRVANALAN/gcn_analysis/blob/master/notebook/Plantenoid%20Citation%20Data%20Format%20Transformation.ipynb)
 
 
 ## Model
