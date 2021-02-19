@@ -18,9 +18,9 @@ GCN模型: [GCN model](https://github.com/user8831222/protein_repeat_network/tre
 ## Paper
 ##### Editable overleaf link: [Repeat_Network](https://www.overleaf.com/2396985619scdmrksxzjzy)
 
-#### Biology：
+#### Biology:[Paper_list1](https://github.com/RepeatNetwork/protein/tree/main/paper/Experimental)
 
-#### Computing:
+#### Computing:[Paper_list2](https://github.com/RepeatNetwork/protein/tree/main/paper/Computional)
 
-#### Biology computing:
+#### Biology computing(***):[Paper_list3](https://github.com/RepeatNetwork/protein/tree/main/paper/Ex%2BCom)
 
