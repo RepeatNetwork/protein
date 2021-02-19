@@ -12,7 +12,7 @@
 
 
 ## Model
-GCN模型: [GCN model](https://github.com/user8831222/protein_repeat_network/tree/main/model)
+Classical GCN model: [GCN model](https://github.com/user8831222/protein_repeat_network/tree/main/model)
 
 
 ## Paper
