@@ -1,4 +1,4 @@
-# protein_repeat_network
+# PRN (Protein_Repeat_Network)
 
 ## Data processing
 
