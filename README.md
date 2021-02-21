@@ -20,9 +20,8 @@ Our designed model:
 [multiclass learning](https://github.com/RepeatNetwork/protein/tree/main/our_model/gcn_multiclass) (version1)
 [multilabel learning](https://github.com/RepeatNetwork/protein/tree/main/our_model/gcn_multilabel) (version2)
 
-## Paper
-##### Editable overleaf link: [Repeat_Network](https://www.overleaf.com/2396985619scdmrksxzjzy)
 
+## Reference Ppaer
 #### Biology:[Paper_list1](https://github.com/RepeatNetwork/protein/tree/main/paper/Experimental)
 
 #### Computing:[Paper_list2](https://github.com/RepeatNetwork/protein/tree/main/paper/Computional)
