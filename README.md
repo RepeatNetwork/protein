@@ -16,7 +16,9 @@
 ## Model
 Classical GCN model: [GCN model](https://github.com/user8831222/protein_repeat_network/tree/main/model)
 
-
+Our designed model: 
+version1 - [multiclass learning](https://github.com/RepeatNetwork/protein/tree/main/our_model/gcn_multiclass)
+version2 - [multilabel learning](https://github.com/RepeatNetwork/protein/tree/main/our_model/gcn_multilabel)
 ## Paper
 ##### Editable overleaf link: [Repeat_Network](https://www.overleaf.com/2396985619scdmrksxzjzy)
 
